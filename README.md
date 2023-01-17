@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [My Gaming Manager](https://github.com/DanielOhrin/my-gaming-manager)  
   
 
-- 🧠 I'm currently learning C# and .NET  
+- 🧠 I'm currently learning ASP.NET Core Web API
   
 
 - 🤯 I use tabs over spaces  
