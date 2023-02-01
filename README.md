@@ -6,7 +6,7 @@
 ### About Me  
   
 
-- 🔭 I’m currently working on [My Gaming Manager](https://github.com/DanielOhrin/my-gaming-manager)  
+- 🔭 I’m currently working on [NutriHelp](https://github.com/DanielOhrin/NutriHelp)  
   
 
 - 🧠 I'm currently learning ASP.NET Core Web API
