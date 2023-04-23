@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [TerrariaTools](https://github.com/DanielOhrin/TerrariaTools)  
   
 
-- 🧠 I'm currently learning Typescript and T4 templates
+- 🧠 I'm currently learning Typescript
   
 
 - 🤯 I use tabs over spaces  
