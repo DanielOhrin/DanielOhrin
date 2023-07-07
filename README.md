@@ -6,10 +6,10 @@
 ### About Me  
   
 
-- 🔭 I’m currently working on [TerrariaTools](https://github.com/DanielOhrin/TerrariaTools)  
+- 🔭 I’m currently working on private projects using Java.  
   
 
-- 🧠 I'm currently learning Typescript
+- 🧠 I'm currently learning Redux
   
 
 - 🤯 I use tabs over spaces  
