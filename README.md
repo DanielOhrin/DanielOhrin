@@ -24,7 +24,7 @@ Mostly focused on **internal tools** at my day job, but I love side projects tha
 
 **Languages:** JavaScript, TypeScript, Node.js, Elixir, Java, Kotlin, C#  
 **Frontend:** Vue3, HTML, CSS, React  
-**Backend / APIs:** Node.js, MSSQL, Bash scripting, .NET  
+**Backend / APIs:** Node.js, MSSQL, shell scripting, .NET  
 **Tools & Libraries:** Docker, npm/yarn  
 
 ---
